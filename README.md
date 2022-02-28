@@ -4,3 +4,6 @@ Create a plotmatrix style figure with colored scatter dots Give a Table with var
 This Version works the way I need it. I see many ways that could make it more usefull for other cases.
 
 Feel free to share or contribute :)
+
+
+[![View Matlab-plotmatrixColobar on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://ch.mathworks.com/matlabcentral/fileexchange/107360-matlab-plotmatrixcolobar)
