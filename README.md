@@ -1,6 +1,6 @@
 # Matlab-plotmatrixColobar
 Create a plotmatrix style figure with colored scatteplot. 
-Give a Table with variable names as x/ylabels and the figure sz (default \[1600,1000\]). The last column entry in the table is the used for the colorbar. 
+Give a Table with variable names as x/ylabels and the figure sz (default \[1600,1000\]). The last column entry in the table is used for the colorbar. 
 
 This Version works the way I need it. I see many ways that could make it more usefull for other cases.
 
